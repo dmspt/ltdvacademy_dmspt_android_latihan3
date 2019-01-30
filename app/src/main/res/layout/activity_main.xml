@@ -43,6 +43,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginVertical="@dimen/paddingAll"
+            android:background="@color/buttonColor"
             android:hint="@string/textButton"
             android:paddingLeft="@dimen/paddingAll"
             android:paddingRight="@dimen/paddingAll" />
