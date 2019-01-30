@@ -6,5 +6,6 @@
     <color name="textPrimary">#212121</color>
     <color name="textSecond">#FFFFFF</color>
     <color name="colorBackground">#616161</color>
+    <color name="buttonColor">#FF5722</color>
 
 </resources>
