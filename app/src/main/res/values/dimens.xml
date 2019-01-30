@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ukuranpict">512px</dimen>
+    <dimen name="paddingAll">32dp</dimen>
+    <dimen name="ukurantext1">26dp</dimen>
+    <dimen name="ukurantext2">20dp</dimen>
+</resources>
